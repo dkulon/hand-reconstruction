@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# macOS
+.DS_Store
+._*
+
+# Project data
+/data
