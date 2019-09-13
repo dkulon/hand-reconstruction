@@ -61,7 +61,7 @@ If you use the code, please, make sure you are familiar with the [LICENSE](./LIC
 > @inproceedings{dkulon2019rec,  
 >   author    = {Dominik Kulon and  
 >                Haoyang Wang and  
->                Riza Alp G{\"{u}}ler and  
+>                Riza Alp G{\\"{u}}ler and  
 >                Michael M. Bronstein and  
 >                Stefanos Zafeiriou},  
 >   title     = {Single Image 3D Hand Reconstruction with Mesh Convolutions},  
