@@ -11,8 +11,10 @@ Monocular 3D reconstruction of deformable objects, such as human body parts, has
 
 ## Data
 
-The data can be downloaded from the link below:  
-[Hand Reconstruction Data](https://imperiallondon-my.sharepoint.com/:f:/g/personal/dk2317_ic_ac_uk/Ejn5XIVkPuJGlrkaiHwOJvYBTY_hSwUbiHFEzsSPxQdD9w?e=8DaHV2)
+~The data can be downloaded from the link below:  
+[Hand Reconstruction Data](https://imperiallondon-my.sharepoint.com/:f:/g/personal/dk2317_ic_ac_uk/Ejn5XIVkPuJGlrkaiHwOJvYBTY_hSwUbiHFEzsSPxQdD9w?e=8DaHV2)~
+
+To access the data, please, contact me using the email address provided in the paper.
 
 The *data* directory should be placed in the root of the project structure.
 
